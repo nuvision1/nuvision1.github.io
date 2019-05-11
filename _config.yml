@@ -1,0 +1,63 @@
+# Site settings
+title: NuVision | EYECARE
+description: "NuVision Eye Care Hospital."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: img/logo.png
+
+sass:
+    sass_dir: _scss
+# Hero
+hero: 
+    hero_img: hero.png
+    hero_title: NuVision
+    hero_description: NuVision Hospital foo bar
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 0483 276 4999
+    email: nuvision@yoursite.com
+    address: 14/7A, Near Korambayil Hospital, Pandikkad Road, Manjeri, Kerala
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Von schroeders 273, Viña del mar, Chile
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+instagram: http://instagram.com
+feed: yes
+
+# Footer
+copyright: © 2019 NuVision - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
