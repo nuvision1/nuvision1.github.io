@@ -1,29 +1,29 @@
-- name: Dr Ashoka Valsala
-  image: img1.jpg
-  email: Sr Consultant Eye Surgeon
+- name: Dr Sreekanth Karat
+  image: sreekanth.jpg
+  email: Chief Ophthalmic Surgeon
   phone: 9659 43 21
 
-- name: Dr Shakeer P
-  image: img2.jpg
+- name: Dr Ashoka Valsala
+  image: ashoka.jpg
   email: Sr Consultant Eye Surgeon
   phone: 9659 43 21
 
 - name: Dr Isham Palayil
-  image: img3.jpg
+  image: isham.jpg
   email: Cataract & Glaucoma Surgeon
   phone: 9659 43 21
 
 - name: Dr Sarath Sivan N.V
-  image: img4.jpg
+  image: sarath.jpg
   email: Cataract and Retina Surgeon
   phone: 9659 43 21
 
-- name: Dr Sreekanth Karat
-  image: img5.jpg
-  email: Chief Ophthalmic Surgeon
+- name: Dr Shakeer P
+  image: team.jpg
+  email: Sr Consultant Eye Surgeon
   phone: 9659 43 21
 
 - name: Dr Sarath Sivan N.V
-  image: img6.jpg
+  image: team.jpg
   email: Sr Consultant Eye Surgeon
   phone: 9659 43 21

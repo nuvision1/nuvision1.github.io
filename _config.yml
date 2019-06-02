@@ -11,7 +11,7 @@ sass:
 hero: 
     hero_img: hero.png
     hero_title: NuVision
-    hero_description: NuVision Hospital foo bar
+    hero_description: A new vision in eye care, NuVision Hospital. I am skeptical if they appreciate puns though.
 
 # Contact form
 api_token: # Enter API token here
