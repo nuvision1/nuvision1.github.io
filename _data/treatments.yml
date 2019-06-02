@@ -1,11 +1,24 @@
 - icon: icon-user-md
   title: MICS-Cataract Surgery
-  description: Should I write it in english or malayalam???????
+  description: 
 
 - icon: icon-diamond
   title: Retina Clinic
-  description: Should I write in english or malayalam?????
+  description: 
 
 - icon: icon-flask
   title: Glaucoma Clinic
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description:  
+
+
+- icon: icon-briefcase
+  title: Paediatric Clinic
+  description:  
+
+- icon: icon-heart
+  title: LASIK Clinic
+  description:  
+
+- icon: icon-medkit
+  title: Comprehensive Eye Checkup
+  description:  

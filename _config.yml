@@ -11,7 +11,7 @@ sass:
 hero: 
     hero_img: hero.png
     hero_title: NuVision
-    hero_description: A new vision in eye care, NuVision Hospital. I am skeptical if they appreciate puns though.
+    hero_description: Your vision, Our mission.
 
 # Contact form
 api_token: # Enter API token here
@@ -19,13 +19,8 @@ api_token: # Enter API token here
 # Contact info
 contact:
     phone: 0483 276 4999
-    email: nuvision@yoursite.com
+    email: nuvisionmanjeri@gmail.com
     address: 14/7A, Near Korambayil Hospital, Pandikkad Road, Manjeri, Kerala
-
-# Opening hours
-monday_friday: 9:00 – 18:00
-saturday: 10:00 – 17:00
-sunday: 10:00 – 15:00
 
 # Testimonials
 testimonials:

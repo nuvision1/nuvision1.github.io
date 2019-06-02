@@ -58,16 +58,12 @@ layout: default
         <table>
             <tbody>
                 <tr>
-                    <td>Monday – Friday</td>
-                    <td>{{ site.monday_friday }}</td>
-                </tr>
-                <tr>
-                    <td>Saturday</td>
-                    <td>{{ site.saturday }}</td>
+                    <td>Monday – Saturday</td>
+                    <td>8:30 AM – 6:00 PM</td>
                 </tr>
                 <tr>
                     <td>Sunday</td>
-                    <td>{{ site.sunday }}</td>
+                    <td>Closed</td>
                 </tr>
             </tbody>
         </table>
@@ -90,7 +86,8 @@ layout: default
         <div class="row">
             <div class="col-sm-6">
                 <h3>Welcome to NuVision Eye Care Hospital</h3>
-                <p>Near Korembayil Hospital, Mancheri</p>
+                <p>A new vision in Eye Care. Near Korembayil Hospital, Mancheri.</p>
+                <p>Best infrastructure and doctors, available right at the heart of Manjeri.</p>
 
                 <div class="media">
                     <div class="media-left">
@@ -162,13 +159,15 @@ layout: default
             <div class="expandable-box-top">
                 <img src="{{ site.baseurl }}/img/team/{{ member.image }}" alt="{{ member.name }}">
                 <h4>{{ member.name }}</h4>
+                <h4>{{member.about}}</h4>
             </div>
+            <!--
             <div class="expandable-box-bottom">
                 <a href="mailto:{{ member.email }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.email }}"><svg class="icon icon-envelope"><use xlink:href="#icon-envelope"></use></svg></a>
                 </a>
                 <a href="tel:{{ member.phone }}" data-toggle="tooltip" data-placement="bottom" title="{{ member.phone }}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a>
                 </a>
-            </div>
+            </div> -->
         </div>
     {% endfor %}
     </div>
