@@ -10,7 +10,7 @@ sass:
 # Hero
 hero: 
     hero_img: hero.png
-    hero_title: NuVision
+    hero_title: NuVision Eye Care
     hero_description: Your vision, Our mission.
 
 # Contact form
